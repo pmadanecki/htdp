@@ -8,6 +8,8 @@ HTDP is distributed under GPL License version 3.0.
 Nullsoft Scriptable Install System (NSIS, https://sourceforge.net/projects/nsis/) was used to generate windows installer. NSIS is licensed as zlib/libpng licensed software with parts licensed under bzip2 and Common Public License version 1.0. The installer automates installation process and is applicable in Windows only.
 Apache Derby database (Apache License, Version 2.0) is required to compile HTDP (http://db.apache.org/derby/).
 
+Screenshots:
+https://github.com/pmadanecki/htdp/issues/1
 
 Repository structure:
 bin – binary files (for automatic [windows] and manual [] installation)
