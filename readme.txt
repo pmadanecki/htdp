@@ -12,7 +12,7 @@ Screenshots:
 https://github.com/pmadanecki/htdp/issues/1
 
 Repository structure:
-bin – binary files (for automatic [windows] and manual [] installation)
+bin – binary files (for automatic [windows] and manual [Linux, Mac OS] installation)
 src – source code (the software is developed using NetBeans IDE [https://netbeans.org/] so whole NetBeans project directory tree was compressed and deposited)
 docs – user manual and other documentation (example data files were deposited in publicly available repository: https://osf.io/pw2dx/)
 
