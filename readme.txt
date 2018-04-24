@@ -51,3 +51,4 @@ java -jar /path/to/the/program/folder/HTDP.jar
 instead of 
 java -Xmx800M -jar /path/to/the/program/folder/HTDP.jar 
 
+Citation: Madanecki P, Bałut M, Buckley PG, Ochocka JR, Bartoszewski R, Crossman DK, et al. (2018) High-Throughput Tabular Data Processor – Platform independent graphical tool for processing large data sets. PLoS ONE 13(2): e0192858. https://doi.org/10.1371/journal.pone.0192858
